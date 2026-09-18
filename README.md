@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Life Manager
 
 ## Description
@@ -125,3 +126,6 @@ text
 ## Academic Purpose
 
 This project demonstrates Java classes and objects, constructors, methods, conditional statements, loops, switch statements, collections, exception handling and file I/O.
+=======
+# studentlifemanager
+>>>>>>> 203bc2bd53c638669e928da1c4e7ffe73347194b
